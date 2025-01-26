@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Mark Sabouni",
+    "label": "FinTech Product Manager",
+    "picture": "https://drive.google.com/file/d/11mvLxWBG5Qmi3MgrQBpclo_G3DkzFehh/view",
+    "email": "mark_sabouni@protonmail.com",
+    "phone": "(484) 653-7999",
+    "website": "",
+    "summary": "Driven by a passion for leveraging technology to deliver transformative outcomes, I bring expertise in product design, project management, and software development. With a proven track record in leading cross-functional teams, I excel at driving productivity gains and spearheading complex technological initiatives. I thrive in conceptual discussions, navigating challenges with perseverance and focus to deliver exceptional, client-centered products.",
+    "location": {
+      "address": "",
+      "postalCode": "19147",
+      "city": "Philadelphia",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "marksabouni",
+        "url": "https://www.linkedin.com/in/marksabouni"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Vanguard Charitable",
+      "position": "Technical Product Manager",
+      "website": "",
+      "startDate": "2024-02-02",
+      "summary": "",
+      "highlights": [
+        "Led the product management effort for the integration platform resulting in a highly responsive, resilient, and reliable application for client and partner integrations.",
+        "Improved speed to market by 53%, converting a monolithic application into micro services using cloud-native solutions.",
+        "Introduced important security features like SSO and OIDC for 3rd Party app connections and reduced user overhead to open accounts"
+      ]
+    },
+    {
+      "company": "Vanguard Charitable",
+      "position": "Senior Project Manager",
+      "website": "",
+      "startDate": "2022-05-01",
+      "endDate": "2024-02-01",
+      "summary": "",
+      "highlights": [
+        "Led a tech transformation program to scale the tech stack and outpace the demands of clients and the business.",
+        "Implemented agile methodologies to improve organizational efficiency, transparency, communication.",
+        "Coordinated project timelines, budgets, and resources to ensure timely delivery of high-quality software."
+      ]
+    },
+    {
+      "company": "Vanguard Charitable",
+      "position": "Project Manager Tech",
+      "startDate": "2020",
+      "endDate": "2022",
+      "highlights": [
+        "Received 'Exceptional' year-end performance rating, highlighting success in leading multiple cross-functional teams.",
+        "Drove a 400% increase in development team productivity by creating development tools and frameworks to support CI/CD best practices.",
+        "Successfully implemented Auth0 authentication and authorization platform to secure web applications and APIs."
+      ]
+    },
+    {
+      "company": "Vanguard Charitable",
+      "position": "Financial Technology Expert",
+      "startDate": "2019",
+      "endDate": "2020"
+    },
+    {
+      "company": "Vanguard Charitable",
+      "position": "Operations Specialist",
+      "startDate": "2018",
+      "endDate": "2019",
+      "location": "Philadelphia, PA"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Temple University",
+      "area": "Spanish Language",
+      "studyType": "B.A.",
+      "startDate": "2011",
+      "endDate": "2016",
+      "gpa": "3.3",
+      "courses": [
+        "Spanish Language and Literature",
+        "Philosophy and Logic",
+        "Arabic Language and Literature"
+      ]
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "area": "Programming and data structures",
+      "studyType": "Certificate",
+      "startDate": "2020-05",
+      "endDate": "2020-09",
+      "courses": [
+        "Computational Thinking for Problem Solving",
+        "Java and Object-Oriented Programming",
+        "Introduction to Python Programming",
+        "Inheritance and Data Structures in Java",
+        "Data Analysis Using Python"
+      ]
+    },
+    {
+      "institution": "Wharton School of Business @ University of Pennsylvania",
+      "studyType": "Certificate",
+      "area": "Product Management Strategy",
+      "startDate": "2024-12-02",
+      "endDate": "2025-03-12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Conceptual Thinking",
+      "keywords": [
+        "Problem Solving",
+        "Idea Development"
+      ]
+    },
+    {
+      "name": "Relationship Management",
+      "keywords": [
+        "Stakeholder Engagement",
+        "Client Relationships"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Waterfall"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "AWS-native/serverless technologies"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "General Proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "General Proficiency"
+    }
+  ]
+}
